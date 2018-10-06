@@ -1,3 +1,3 @@
-"# hello-world" 
-"# hello-world" 
-"# hello-world" 
+#testing out some shit
+
+print('hello world')
